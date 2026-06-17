@@ -4,7 +4,7 @@ A production-grade **Medical Domain B2B ERP** platform for hospitals, distributo
 
 ## Architecture Overview
 
-```Vj the Beast
+```Vj the Beast, King of king
 I am the best .
 ┌─────────────────────────────────────────────────────────────────┐
 │                        CloudFront CDN                           │
